@@ -2,42 +2,18 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Project: Blog</title>
+        <title>Project: </title>
             <style>
-        body{background:rgb(255, 255, 255);
-        }
-        .title{
-            color:rgb(255, 3, 3);
-            background:rgb(227, 227, 227);
-        }
-        #black{
-            background:black;
-            color:white;
-        }
-        #black2{
-            background:black;
-            color:white;
-        }
-        #black3{
-            background:black;
-            color:white;
-        }
-        #contents{
-            background:black;
-            color:white;
-        }
-        
+       
         </style>
     </head>
     <body>
         
-        <h1 class="title">Ariel's Movie blog</h1>
+        <h1 class="title"></h1>ii
 
         <h2 id="contents">Contents</h2>
-        <ul>
-            <li><a href="#black">Box Office movies 2019</a></li> 
-            <li><a href="#black2">Upcoming Movies</a></li>
-            <li><a href="#black3">Movie genres List</a></li>
+        
+        
         
         </ul>
         <img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/db/The_Movies_Coverart.jpg/220px-The_Movies_Coverart.jpg" width="90"> 
